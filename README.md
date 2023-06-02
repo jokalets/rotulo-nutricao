@@ -1,1 +1,2 @@
-# Projeto de estudo de html freecodecamp 
+# Projeto de estudo de HTML FreecodeCamp (Rótulo de Nutrição)
+
